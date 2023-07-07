@@ -1,2 +1,2 @@
-# lawConnect
-A platform for seamless law expert consultation
+# Examination and Invigilation Timetable System
+
