@@ -39,8 +39,8 @@ session_start();
             <div class="form-group my-2">
                 <input type="password" name="password" class="form-control" placeholder="Enter password" id="" required>
             </div>
-            <button type="submit" name="login" class="btn text-dark my-2"
-                style="background-color:#ffffc2;">Login</button>
+            <button type="submit" name="login" class="btn text-light my-2"
+                style="background-color:gray;">Login</button>
             <br>
             <p>If not registered <a href="register.php">Signup</a></p>
 

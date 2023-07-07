@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$database = "lawconnect";
+$database = "onlinetimetable";
 $username = "root";
 $password = "";
 //connecting to the database

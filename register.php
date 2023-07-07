@@ -37,10 +37,16 @@
                 <input type="text" name="email" class="form-control" placeholder="Enter your email" id="" required>
             </div>
             <div class="form-group my-2">
+                <select name="role" class="form-select" id="">
+                        <option value="student">Student</option>
+                        <option value="lecturer">Lecturer</option>
+                </select>
+            </div>
+            <div class="form-group my-2">
                 <input type="password" name="password" class="form-control" placeholder="Enter password" id="" required>
             </div>
-            <button type="submit" name="register" class="btn text-dark my-2"
-                style="background-color:#ffffc2;">Register</button>
+            <button type="submit" name="register" class="btn text-light my-2"
+                style="background-color:gray;">Register</button>
             <br>
             <p>If already registered <a href="login.php">Login</a></p>
 
